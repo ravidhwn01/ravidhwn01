@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ravidhwn01
-- 👀 I’m interested in ...app development ,website design.  
+- 👀 I’m interested in website design.  
 - 🌱 I’m currently learning ... web development
 - 📫 How to reach me ...ravidhawan8899@gmail.com
 
