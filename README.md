@@ -1,3 +1,4 @@
+![logo](https://github.com/ravidhwn01/techAthon2022/blob/main/19362653.jpg)
 <h1 align="center">Hi 👋, I'm Ravi Kumar Dhawan</h1>
 <h3 align="center">I'm a passionate Software Engineerer</h3>
 
