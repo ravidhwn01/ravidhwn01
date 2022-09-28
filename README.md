@@ -1,4 +1,4 @@
-![logo](https://github.com/ravidhwn01/techAthon2022/blob/main/Blue%20Modern%20Business%20Facebook%20Cover.png)
+![logo](https://github.com/ravidhwn01/techAthon2022/blob/main/Blue%20Modern%20Business%20Facebook%20Cover%20(1).png)
 <h1 align="center">Hi 👋, I'm Ravi Kumar Dhawan</h1>
 <h3 align="center">I'm a passionate Software Engineerer</h3>
 
