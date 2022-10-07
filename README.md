@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ravidhawan8899@gmail.com**
 
-- ⚡ Fun fact **I think I am so funny 😆**
+- ⚡ Fun fact **So funny 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
