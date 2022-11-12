@@ -7,6 +7,8 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br><br>🌱 I’m currently learning Redux , React 🔥 and Mongo DB<br><br>👨‍💻 Visit my portfolio https://ravidhwn01.github.io/portfolio/<br><br>💬 Ask me about ReactJS, NodeJS, ExpressJS and MongoDB<br><br>📫 How to reach me ravidhawan8899@gmail.com<br><br>⚡ Fun fact : making new friends 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ravidhwn01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ravi_dhwn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-kumar-dhawan-1874a3216/) 
@@ -18,8 +20,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ravidhwn01&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidhwn01&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ravidhwn01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
