@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravidhwn01&label=Profile%20views&color=0e75b6&style=flat" alt="ravidhwn01" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br><br>🌱 I’m currently learning Redux , React 🔥 and Mongo DB<br><br>👨‍💻 Visit my portfolio https://ravidhwn01.github.io/portfolio/<br><br>💬 Ask me about ReactJS, NodeJS, ExpressJS and MongoDB<br><br>📫 How to reach me ravidhawan8899@gmail.com<br><br>⚡ Fun fact : making new friends 
+🔭 I’m currently working on MERN Stack<br><br>🌱 I’m currently learning Redux , React 🔥 and Mongo DB<br><br>👨‍💻 Visit my portfolio https://ravidhwn01.github.io/portfolio/<br><br>💬 Ask me about ReactJS, NodeJS, ExpressJS and MongoDB<br><br>⚡ Fun fact : making new friends 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ravidhwn01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
